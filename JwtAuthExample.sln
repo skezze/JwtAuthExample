@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthExample", "JwtAuthExample\JwtAuthExample.csproj", "{05A2240C-B984-46F9-87B4-86C9C96E417A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiExample", "WebApiExample\WebApiExample.csproj", "{5F90B35B-F05E-490D-9968-F8644140871E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretKeyApi", "SecretKeyApi\SecretKeyApi.csproj", "{7B3DCABC-10C5-4CEC-94C3-DF69D22C8E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A2240C-B984-46F9-87B4-86C9C96E417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A2240C-B984-46F9-87B4-86C9C96E417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A2240C-B984-46F9-87B4-86C9C96E417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A2240C-B984-46F9-87B4-86C9C96E417A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F90B35B-F05E-490D-9968-F8644140871E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F90B35B-F05E-490D-9968-F8644140871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F90B35B-F05E-490D-9968-F8644140871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F90B35B-F05E-490D-9968-F8644140871E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3DCABC-10C5-4CEC-94C3-DF69D22C8E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3DCABC-10C5-4CEC-94C3-DF69D22C8E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3DCABC-10C5-4CEC-94C3-DF69D22C8E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3DCABC-10C5-4CEC-94C3-DF69D22C8E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
